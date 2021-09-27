@@ -1,0 +1,6 @@
+[submodule "Metadata-"]
+	path = Metadata-
+	url = https://github.com/wahyu243/Metadata-
+[submodule "NFT-Proboscis"]
+	path = NFT-Proboscis
+	url = https://github.com/wahyu243/NFT-Proboscis
